@@ -5,7 +5,7 @@ input JSON -> output JSON
 
 ## TODO - version 0.1:
 - [ ] User Entity
-  - [ ] add / remove / edit User
+  - [ ] add / remove / edit User (google+ / facebook / phab / slack)
   - [ ] add points from games, add to game, 
   - [ ] add wins / looses / draws (points, user, games / tournaments)
   - [ ] join to Tournament / Game
